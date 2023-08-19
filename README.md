@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tejasmagar2001&label=Profile%20views&color=0e75b6&style=flat" alt="Tejas" /> </p>
 
 # 💫 About Me:
-🔭 I’m Currently Preparing For internship.<br>🌱 I’m currently learning **Data Structures using Java**.<br>🤔 Working As a Software developer.<br>💬 Ask me about Good First Issues & Exciting projects to work on.<br>📫 How to reach me **tejasmagr.sknsits.comp@gmail.com**<br>⚡ Fun fact: Enjoying Collage Life With Friends Without Worries❤️
+🔭 I’m Currently Preparing For internship.<br>🌱 I’m currently learning **Java**.<br>🤔 Working As a Software developer.<br>💬 Ask me about Good First Issues & Exciting projects to work on.<br>📫 How to reach me **tejasmagr.sknsits.comp@gmail.com**<br>⚡ Fun fact: Enjoying Collage Life With Friends Without Worries❤️
 
 <img align="right" alt="Coding" width="400" src="https://neolotex.com/wp-content/uploads/2021/05/pro1-700x700.jpg">
 
