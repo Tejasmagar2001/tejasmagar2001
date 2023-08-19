@@ -3,7 +3,7 @@
 <h3 align="center">A passionate frontend Developer 💕, java Programmer🙌 from India❤️</h3>
 <h4 align="center">Passionate computer science student and avid coder. Transforming ideas into elegant code. Exploring algorithms, data structures, and software architecture. Lifelong learner on a journey to innovate and create. Embracing challenges, one line of code at a time. Let's build the future together through technology.</h4>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashishpatil7507&label=Profile%20views&color=0e75b6&style=flat" alt="ashishpatil7507" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tejasmagar2001&label=Profile%20views&color=0e75b6&style=flat" alt="Tejas" /> </p>
 
 # 💫 About Me:
 🔭 I’m Currently Preparing For internship.<br>🌱 I’m currently learning **Data Structures using Java**.<br>🤔 Working As a Software developer.<br>💬 Ask me about Good First Issues & Exciting projects to work on.<br>📫 How to reach me **tejasmagr.sknsits.comp@gmail.com**<br>⚡ Fun fact: Enjoying Collage Life With Friends Without Worries❤️
@@ -26,7 +26,7 @@
 <!-- <a  href="" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> -->
 </a>
 
-   
+
    
 
 
